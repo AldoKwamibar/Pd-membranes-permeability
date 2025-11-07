@@ -1,7 +1,7 @@
 # Pd-membranes-permeability
 This repository hosts Python notebooks (.ipynb) and data about hydrogen permeability prediction in Palladium alloy membranes.
 All the datasets can be downloaded and viewed in Microsoft Excel (Version 2508).
-The Python notebooks are organized as follows:
+Viewer should follow the following hierarchy in notebooks consultation:
 
 
 PhD. Project organization
