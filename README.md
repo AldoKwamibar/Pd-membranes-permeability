@@ -76,6 +76,7 @@ It is recommended to use a virtual environment or Conda environment to ensure pa
 ## 📩 Contact
 
 For questions or collaboration inquiries, feel free to open an issue or contact the authors.
+
 Email: kolor.k.aa@m.titech.ac.jp
 
 ---
