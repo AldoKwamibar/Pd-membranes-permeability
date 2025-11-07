@@ -11,12 +11,12 @@ All datasets are provided in flat file formats (CSV/XLSX), compatible with Micro
 PhD. Project organization
 
 ## Dataset (Folder)
-|    ___Lattice parameters.xlsx ----> Vegard's law
-|   |
-|   |___Palladium_Alloy_Membranes dataset_QSPR_ML.csv ----> Pd alloy dataset for modelling
-|   |
-|   |___oliynyk_extended_std_unit.csv ----> Property dataset for CBFV
-|
+     ___Lattice parameters.xlsx ----> Vegard's law
+    |
+    |___Palladium_Alloy_Membranes dataset_QSPR_ML.csv ----> Pd alloy dataset for modelling
+    |
+    |___oliynyk_extended_std_unit.csv ----> Property dataset for CBFV
+
 ## Notebooks (Folder)
      ___Palladium_Membrane_ML_Preprocessing.ipynb
     |
