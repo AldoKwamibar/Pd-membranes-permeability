@@ -10,7 +10,7 @@ All datasets are provided in flat file formats (CSV/XLSX), compatible with Micro
 
 PhD. Project organization
 
-___Dataset (Folder)
+#Dataset (Folder)
 |    ___Lattice parameters.xlsx ----> Vegard's law
 |   |
 |   |___Palladium_Alloy_Membranes dataset_QSPR_ML.csv ----> Pd alloy dataset for modelling
