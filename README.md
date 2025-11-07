@@ -1,4 +1,4 @@
-# Pd-Membranes-Permeability
+# Palladium alloy Membranes Permeability Prediction with CatBoost & Virtual Screening
 
 This repository contains Python notebooks (`.ipynb`) and datasets related to hydrogen permeability prediction in palladium-based alloy membranes.
 
