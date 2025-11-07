@@ -31,4 +31,21 @@ ___Dataset (Folder)
     |___Palladium_Membrane_ML_Modelling_Figure_support.ipynb
 
 
-Note: Some notebooks are >25MB, or contain widgets. Therefore, so please download and open with colab.
+Note: Some notebooks are >25MB, or contain widgets. Therefore, so please download and open with Google colab.
+
+Dependencies
+Python 3
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+tqdm
+CatBoost
+SHAP
+Matminer
+Pymatgen
+Pymatviz
+wordcloud
+etc.
+
