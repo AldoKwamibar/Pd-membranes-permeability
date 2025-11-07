@@ -8,12 +8,6 @@ All datasets are provided in flat file formats (CSV/XLSX), compatible with Micro
 
 ## 🚀 Project Structure
 
-
-
-
-
-
-
 PhD. Project organization
 
 ___Dataset (Folder)
@@ -40,24 +34,6 @@ ___Dataset (Folder)
     |
     |___Palladium_Membrane_ML_Modelling_Figure_support.ipynb
 
-
-Note: Some notebooks are >25MB, or contain widgets. Therefore, so please download and open with Google colab.
-
-Dependencies
-Python 3
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-tqdm
-CatBoost
-SHAP
-Matminer
-Pymatgen
-Pymatviz
-wordcloud
-etc.
 
 > **Note:** Some notebooks are larger than 25 MB or contain interactive widgets. For best performance, download them locally or open directly in **Google Colab**.
 
