@@ -1,6 +1,6 @@
 # Palladium alloy Membranes Permeability Prediction with CatBoost & Virtual Screening
 
-This repository contains Python notebooks (`.ipynb`) and datasets related to hydrogen permeability prediction in palladium-based alloy membranes.
+This repository contains Python notebooks (`.ipynb`), the datasets for modelling, the density functional theory (DFT) input/output files and supplementary material (.docx) related to hydrogen permeability prediction in palladium-based alloy membranes.
 
 All datasets are provided in flat file formats (CSV/XLSX), compatible with Microsoft Excel (tested on Version 2508).
 
