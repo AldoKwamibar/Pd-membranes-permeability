@@ -55,17 +55,18 @@ PhD. Project organization
 ## ✅ Requirements
 
 - Python 3.8+
-- NumPy  
-- Pandas  
+- NumPy: 2.0.2  
+- Pandas: 2.2.2  
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
 - tqdm  
-- CatBoost  
-- SHAP  
-- Matminer  
-- Pymatgen  
-- Pymatviz  
+- CatBoost: 1.2.8 
+- SHAP: 0.50.0  
+- Matminer: 0.10.0  
+- Pymatgen:2025.10.7
+- CBFV: 1.1.0  
+- Pymatviz: 0.17.3  
 - wordcloud  
 - (and other standard scientific Python packages)
 
