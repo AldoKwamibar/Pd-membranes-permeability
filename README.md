@@ -66,7 +66,8 @@ PhD. Project organization
 - Matminer: 0.10.0  
 - Pymatgen:2025.10.7
 - CBFV: 1.1.0  
-- Pymatviz: 0.17.3  
+- Pymatviz: 0.17.3
+- paretoset-1.2.5
 - wordcloud  
 - (and other standard scientific Python packages)
 
